@@ -12,6 +12,7 @@ main = "ez_aws_dns.main:main"
 [tool.poetry.dependencies]
 python = "^3.9"
 boto3 = "^1.17.22"
+requests = "^2.25.1"
 
 [tool.poetry.dev-dependencies]
 
